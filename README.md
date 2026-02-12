@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://www.youtube.com/watch?v=iYOz165wGkQ" target="_blank">
+  
       <img src="public/readme/hero.webp" alt="Project Banner">
     </a>
   <br />
@@ -32,7 +32,7 @@
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/ai-resume-analyzer.git
+git clone https://github.com/RupanjanSaha123/ai-resume-analyzer.git
 cd ai-resume-analyzer
 ```
 
